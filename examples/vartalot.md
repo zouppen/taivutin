@@ -573,6 +573,18 @@ erisnimiä ja tuskin esiintyvät monikkomuodoissa.
 - saareksi
 
 ## salo
+
+- salon
+- saloa
+- salossa
+- salosta
+- saloon
+- salolla
+- salolta
+- salolle
+- salona
+- saloksi
+
 ## sauma
 ## siipi
 ## silta
