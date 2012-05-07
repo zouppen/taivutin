@@ -7,7 +7,6 @@ import Data.Maybe
 import Data.Map (fromListWith,toList)
 import Data.Set (Set)
 import qualified Data.Set as S
-import GHC.Exts (sortWith)
 import Common
 
 readExampleCompoundWords = do
@@ -41,9 +40,9 @@ countMatch word ending = do
   checkEnding word ending
   return ending
 
--- |Returns match count for each ending, sorted descending.
+-- |Returns match count for each ending.
 countMatches :: Declinations -> [String] -> [(String,Int)]
-countMatches ds words = sortWith (negate.snd) $ toList $ fromListWith (+) counts
+countMatches ds words = toList $ fromListWith (+) counts
   where
     endings = map fst ds
     counts = map countSingle words    

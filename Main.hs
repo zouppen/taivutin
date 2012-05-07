@@ -2,6 +2,7 @@ module Main where
 
 import Control.Monad (liftM)
 import Data.Set (toList)
+import GHC.Exts (sortWith)
 import System.Environment
 
 import CompoundWord
@@ -18,10 +19,10 @@ main = do
   putStrLn "# word,declination"
   mapM_ (csvM_ putStrLn) declinated
   putStrLn ""
-  putStrLn "# unknown words"
-  putStrLn $ unlines $ broken
-  putStrLn "# ending,occurences"
-  putStrLn $ unlines $ map endingStr $ countMatches declinations words
+  putStrLn "# unknown words (sorted by suffix)"
+  putStrLn $ unlines $ sortWith reverse broken
+  putStrLn "# ending,occurences (sorted by occurence count, descending)"
+  putStrLn $ unlines $ map endingStr $ sortWith (negate.snd) $ countMatches declinations words
 
 csvM_ act (word,ds) = mapM_ csvAct $ toList ds
   where csvAct x = act $ word ++ "," ++ x
