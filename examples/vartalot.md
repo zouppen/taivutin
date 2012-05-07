@@ -6,816 +6,580 @@ Tässä on koneellisesti luettava lista perusmuodossa olevia sanoja ja
 niiden taivutusmuotoja. Tarkoitus on auttaa kadunnimien löytämistä
 dokumentista.
 
+Otsikkona on sanan perusmuoto ja luettelona sen taivutukset.  Mukaan
+on otettu vain tavallisimmat yksikön taivutusmuodot. Kadut ovat
+erisnimiä ja tuskin esiintyvät monikkomuodoissa.
+
 ## polku
 
-- polku
-- polut
 - polun
-- polkujen
 - polkua
-- polkuja
-- polku
-- polun
-- polut
 - polussa
-- poluissa
 - polusta
-- poluista
 - polkuun
-- polkuihin
 - polulla
-- poluilla
 - polulta
-- poluilta
 - polulle
-- poluille
 - polkuna
-- polkuina
 - poluksi
-- poluiksi
-- polutta
-- poluitta
-- poluin
 
 ## katu
 
-- katu
-- kadut
 - kadun
-- katujen
 - katua
-- katuja
-- katu
-- kadun
-- kadut
 - kadussa
-- kaduissa
 - kadusta
-- kaduista
 - katuun
-- katuihin
 - kadulla
-- kaduilla
 - kadulta
-- kaduilta
 - kadulle
-- kaduille
 - katuna
-- katuina
 - kaduksi
-- kaduiksi
-- kadutta
-- kaduitta
-- kaduin
 
 ## tie
 
-- tie
-- tiet
 - tien
-- teiden
-- teitten
 - tietä
-- teitä
-- tie
-- tien
-- tiet
 - tiessä
-- teissä
 - tiestä
-- teistä
 - tiehen
-- teihin
 - tiellä
-- teillä
 - tieltä
-- teiltä
 - tielle
-- teille
 - tienä
-- teinä
 - tieksi
-- teiksi
-- tiettä
-- teittä
-- tein
-
-**HUOM** Tähän loppuu perusteellinen työ.
 
 ## kuja
 
 - kujan
-- kujalle
-- kujalta
+- kujaa
+- kujassa
+- kujasta
 - kujaan
+- kujalla
+- kujalta
+- kujalle
+- kujana
+- kujaksi
 
 ## raitti
 
 - raitin
-- raitille
+- raittia
+- raitissa
 - raitista
 - raittiin
+- raitilla
 - raitilta
+- raitille
+- raittina
+- raitiksi
 
 ## laita
 
 - laidan
-- laidalle
-- laidalta
+- laitaa
+- laidassa
+- laidasta
 - laitaan
+- laidalla
+- laidalta
+- laidalle
+- laitana
+- laidaksi
 
 ## perä
 
 - perän
-- perälle
-- perältä
+- perää
+- perässä
+- perästä
 - perään
+- perällä
+- perältä
+- perälle
+- peränä
+- peräksi
 
 ## mutka
 
 - mutkan
-- mutkalle
-- mutkalta
+- mutkaa
+- mutkassa
+- mutkasta
 - mutkaan
+- mutkalla
+- mutkalta
+- mutkalle
+- mutkana
+- mutkaksi
 
 ## ranta
 
 - rannan
-- rannalle
-- rannalta
+- rantaa
+- rannassa
+- rannasta
 - rantaan
+- rannalla
+- rannalta
+- rannalle
+- rantana
+- rannaksi
 
 ## kaari
 
 - kaaren
-- kaarelle
-- kaarelta
+- kaarta
+- kaaressa
+- kaaresta
 - kaareen
+- kaarella
+- kaarelta
+- kaarelle
+- kaarena
+- kaareksi
 
 ## rinne
 
 - rinteen
-- rinteelle
-- rinteeltä
+- rinnettä
+- rinteessä
+- rinteestä
 - rinteeseen
+- rinteellä
+- rinteeltä
+- rinteelle
+- rinteenä
+- rinteeksi
 
 ## lahti
 
 - lahden
+- lahtea
+- lahdessa
+- lahdesta
+- lahteen
+- lahdella
+- lahdelta
 - lahdelle
-- lahteelta
-- lahteeseen
+- lahtena
+- lahdeksi
 
 ## väylä
 
 - väylän
-- väylälle
-- väylältä
+- väylää
+- väylässä
+- väylästä
 - väylään
-
-## aatami
-
-**HUOM!** Tämä on muutenkin vähän ongelmallinen sana, pitäisikö
-  poistaa katujen listasta kokonaan?
-
-- aatamin
-- aatamista
-- aatamille
-- aatamiin
-
-## eeva
-
-**HUOM** Sama mitä Aatamin osalta.
-
-- eevan
-- eevasta
-- eevalle
-- eevaan
+- väylällä
+- väylältä
+- väylälle
+- väylänä
+- väyläksi
 
 ## ahde
 
-**HUOM!** Tämä ja seuraavat ovat taivuttamatta
-
-## kierros
-
-## piha
-
-## vieru
-
-## maa
-
-## pelto
-
-## kieli
-
-## joki
-
-## portti
-
-## jalka
-
-## laakso
-
-## kivi
-
-## mäki
-
-## vaara
-
-## pohja
-
-## kylä
-
-## salo
-
-## niemi
-
-## lehto
+- ahteen
+- ahdetta
+- ahteessa
+- ahteesta
+- ahteeseen
+- ahteella
+- ahteelta
+- ahteelle
+- ahteena
+- ahteeksi
 
 ## aho
 
-## kulma
-
-## kangas
-
-## puisto
-
-## pää
-
-## oja
-
-## silta
-
-## harju
-
-## pesä
-
-## selkä
-
-**HUOM!** Seuraavat ovat aika harvinaisia varmaan
-
-## ahola
-
-## ahvenus
-
-## ainola
-
-## akseli
-
-## alakaarto
-
-## alenius
-
-## anttila
-
-## apila
-
-## arola
-
-## askeleentakanen
-
-## aurinkoviita
-
-## haasia
-
-## haavikko
-
-## haavisto
-
-## hahlo
-
-## haituva
-
-## hanhikki
-
-## hankala
-
-## hankurainen
-
-## hannula
-
-## harja
-
-## puro
-
-## harus
-
-## siipi
-
-## herttakaksikko
-
-## hetteikkö
-
-## haka
-
-## vuori
-
-## hinkalo
-
-## pisto
-
-## kello
-
-## hohti
-
-## luoto
-
-## saari
-
-## huhta
-
-## huhtala
-
-## huikko
-
-## kemppi
-
-## isokönkä
-
-## itu
-
-## hippi
-
-## notko
-
-## sauma
-
-## jokela
-
-## jontikka
-
-## jyrä
-
-## järventaus
-
-## linna
-
-## kaakkuri
-
-## koipi
-
-## pyrstö
-
-## Kaare pl
-
-## kaarnikka
+- ahon
+- ahoa
+- ahossa
+- ahosta
+- ahoon
+- aholla
+- aholta
+- aholle
+- ahona
+- ahoksi
 
 ## askel
 
-## kanervisto
+- askeleen
+- askelta
+- askeleessa
+- askeleesta
+- askeleeseen
+- askeleella
+- askeleelta
+- askeleelle
+- askeleena
+- askeleeksi
 
-## vuokko
+## haka
 
-## sairaala
+- haan
+- hakaa
+- haassa
+- haasta
+- hakaan
+- haalla
+- haalta
+- haalle
+- hakana
+- haaksi
 
-## kannus
+## harju
 
-## kantola
-
-## kanttorila
-
-## karikko
-
-## karila
-
-## lenkki
-
-## linja
-
-## kauppakuja miina
-
-## kauppi
-
-## kellonperät
+- harjun
+- harjua
+- harjussa
+- harjusta
+- harjuun
+- harjulla
+- harjulta
+- harjulle
+- harjuna
+- harjuksi
 
 ## honka
+## jalka
+## joki
+## järvi
+## kallio
 
-## kesanto
+- kallion
+- kalliota
+- kalliossa
+- kalliosta
+- kallioon
+- kalliolla
+- kalliolta
+- kalliolle
+- kalliona
+- kallioksi
 
-## leipä
+## kangas
 
-## kiikkuri
+- kankaan
+- kangasta
+- kankaassa
+- kankaasta
+- kankaaseen
+- kankaalla
+- kankaalta
+- kankaalle
+- kankaana
+- kankaaksi
 
-## Kippo
+## kauppi
+## kemppi
+## kivi
 
-## Kiramo
-
-## Kiulu
-
-## Kivelä
-
-## Kivikko
-
-## Koivikko
-
-## Koivula
-
-## Kontti
-
-## Korpela
-
-## Korpilahti synsiä
+- kiven
+- kiveä
+- kivessä
+- kivestä
+- kiveen
+- kivellä
+- kiveltä
+- kivelle
+- kivenä
+- kiveksi
 
 ## korpi
 
-## Kosteikko
-
-## Kotakorkee
-
-## Kranni
-
-## Kuhala
-
-## Kuhilas
-
-## Kulmala
-
-## Kuohu
-
-## kanta
-
-## miekka
-
-## nokka
-
-## polvi
-
-## kurkela
-
-## Kämmekkä
-
-## Käpylä
-
-## Kärkinen
-
-## Kärkisten lossi
-
-## Käsälä
-
-## Kääpä
-
-## Laani
-
-## Laanila
-
-## Laari
-
-## Lahtela
-
-## Laiho
-
-## Lammeke
-
-## Lana
-
-## niitty
-
-## Laurila
-
-## Lehtola
-
-## Lekkala
-
-## Leustu
-
-## Lieko
-
-## Liipaisin
-
-## Liisala
-
-## Lilja
-
-## Litma
-
-## Loiva
-
-## Luiskala
-
-## haara
-
-## Luokki
-
-## pussi
-
-## aukio
-
-## Lähde
-
-## Maahi
-
-## Maatia
-
-## kallio
-
-## Masi
-
-## Mattila
-
-## Merasin
-
-## kämmen
-
-## tori
-
-## Metsäraivio
-
-## Moksi
-
-## Moreeni
-
-## Mttk juntula
-
-## Muokkari
-
-## Mursula
-
-## Mutkala
-
-## Muurame
-
-## Mäkelä
-
-## Mäki-Matti
-
-## taival
-
-## Mäntylä
-
-## nenä
-
-## Naapurisaaret
-
-## parta
-
-## Naurishalme
-
-## nousu
-
-## reuna
-
-## Niemelä
-
-## villa
-
-## Niskala
-
-## ruoho
-
-## laukka
-
-## Nyrölä
-
-## Ohela
-
-## Oikari
-
-## Oittila
-
-## Ojala
-
-## pannu
-
-## Opettaja-asuntola
-
-## Opinsaunan kiuas
-
-## Oppilasasuntola
-
-## Orvokki
-
-## Painaa
-
-## Pakola
-
-## Paloinen
-
-## orsi
-
-## kärki
-
-## paikka
-
-## Patikka
-
-## Pekanpatama
-
-## Pekka
-
-## Peltola
-
-## vainio
-
-## Pernasaari kotila
-
-## Pernasaari kumpula
-
-## korva
-
-## Pernasaari pirttilä
-
-## Pernasaari rajala
-
-## Pernasaari rantala
-
-## puu
-
-## vesi
-
-## Pieles
-
-## Piesala
-
-## Piharatamo
-
-## Pihlajisto
-
-## Piikki
-
-## Piilukko
-
-## Pikku-Kuhajärvi rak
-
-## kuha
-
-## Pikkukönkä
+- korven
+- korpea
+- korvessa
+- korvesta
+- korpeen
+- korvella
+- korvelta
+- korvelle
+- korpena
+- korveksi
+
+## kulma
+
+- kulman
+- kulmaa
+- kulmassa
+- kulmasta
+- kulmaan
+- kulmalla
+- kulmalta
+- kulmalle
+- kulmana
+- kulmaksi
+
+## kylä
+
+- kylän
+- kylää
+- kylässä
+- kylästä
+- kylään
+- kylällä
+- kylältä
+- kylälle
+- kylänä
+- kyläksi
 
 ## lampi
 
-## Pirtti
+- lammen
+- lampea
+- lammessa
+- lammesta
+- lampeen
+- lammella
+- lammelta
+- lammelle
+- lampena
+- lammeksi
 
-## Polkula
+## laukka
 
-## Porkka
+- laukan
+- laukkaa
+- laukassa
+- laukasta
+- laukkaan
+- laukalla
+- laukalta
+- laukalle
+- laukkana
+- laukaksi
 
-## Pujo
+## lehto
 
-## Puolakka
+- lehdon
+- lehtoa
+- lehdossa
+- lehdosta
+- lehtoon
+- lehdolla
+- lehdolta
+- lehdolle
+- lehtona
+- lehdoksi
 
-## Purasin
+## lenkki
 
-## Purilas
+- lenkin
+- lenkkiä
+- lenkissä
+- lenkistä
+- lenkkiin
+- lenkillä
+- lenkiltä
+- lenkille
+- lenkkinä
+- lenkiksi
 
-## Purnu
+## linja
 
-## varsi
+- linjan
+- linjaa
+- linjassa
+- linjasta
+- linjaan
+- linjalla
+- linjalta
+- linjalle
+- linjana
+- linjaksi
 
-## Pykälistö
+## linna
 
-## kunta
+- linnan
+- linnaa
+- linnassa
+- linnasta
+- linnaan
+- linnalla
+- linnalta
+- linnalle
+- linnana
+- linnaksi
 
-## Pätkä
+## luoto
 
-## Raittila
+- luodon
+- luotoa
+- ludossa
+- luodosta
+- luotoon
+- luodolla
+- luodolta
+- luodolle
+- luotona
+- luodoksi
 
-## Raivionsuntti
+## maa
 
-## Rajala
-
-## Rantatöyry
-
-## pyörre
-
-## Rasti
-
-## Ravintola helena
-
-## Reiju
-
-## häntä
-
-## Rientola
-
-## Rimpi
-
-## Rinnus
-
-## Rippala
-
-## Ruoke
-
-## Ruokkee
-
-## Ruppa
-
-## mylly
-
-## sarvi
-
-## Rämälä
-
-## Räpylä
-
-## lintula
-
-## Sahra
-
-## Salmela
-
-## Saukkola
-
-## Sauva
-
-## syrjä
+- maan
+- maata
+- maassa
+- maasta
+- maahan
+- maalla
+- maalta
+- maalle
+- maana
+- maaksi
 
 ## metsä
 
-## Seula
+- metsän
+- metsää
+- metsässä
+- metsästä
+- metsään
+- metsällä
+- metsältä
+- metsälle
+- metsänä
+- metsäksi
 
-## Sihti
+## mäki
 
-## Siilo
+- mäen
+- mäkeä
+- mäessä
+- mäestä
+- mäkeen
+- mäellä
+- mäeltä
+- mäelle
+- mäkenä
+- mäeksi
 
-## Sompa
+## nenä
 
-## Sorvaamo
+- nenän
+- nenää
+- nenässä
+- nenästä
+- nenään
+- nenällä
+- nenältä
+- nenälle
+- nenänä
+- nenäksi
 
-## Sorvi
+## niemi
 
-## kynä
+- niemen
+- niemeä
+- niemessä
+- niemestä
+- niemeen
+- niemellä
+- niemeltä
+- niemelle
+- niemenä
+- niemeksi
 
-## Sulkula
+## niitty
+## notko
+## nousu
+## pelto
 
-## Suomuurain
+- pellon
+- peltoa
+- pellossa
+- pellosta
+- peltoon
+- pellolla
+- pellolta
+- pellolle
+- peltona
+- pelloksi
 
-## Suppilo
+## pesä
 
-## Sänki
+- pesän
+- pesää
+- pesässä
+- pesästä
+- pesään
+- pesällä
+- pesältä
+- pesälle
+- pesänä
+- pesäksi
 
-## sivu
+## piha
 
-## parvi
+- pihan
+- pihaa
+- pihassa
+- pihasta
+- pihaan
+- pihalla
+- pihalta
+- pihalle
+- pihana
+- pihaksi
 
-## Taipale
+## pisto
 
-## Talvikki
+- piston
+- pistoa
+- pistossa
+- pistosta
+- pistoon
+- pistolla
+- pistolta
+- pistolle
+- pistona
+- pistoksi
 
-## Tapiola
+## pohja
 
-## hovi
+- pohjan
+- pohjaa
+- pojassa
+- pohjasta
+- pohjaan
+- pohjalla
+- pohjalta
+- pohjalle
+- pohjana
+- pohjaksi
 
-## asema
+## polvi
+## puisto
+## puro
+## pussi
+## pyrstö
+## pää
+## reuna
+## saari
 
-## risti
+- saaren
+- saarta
+- saaressa
+- saaresta
+- saareen
+- saarella
+- saarelta
+- saarelle
+- saarena
+- saareksi
 
-## kolo
-
-## Tikkala
-
-## mannila
-
-## Toivakka
-
-## Toivila
-
-## Toppala
-
-## Torkkeli
-
-## lento
-
-## Tähtäin
-
-## Törmä
-
-## Uikku
-
-## Uusi-Niiles
-
-## Uuttu
-
-## Valtikka
-
-## Vanamo
-
-## Vanha as
-
-## Varikko
-
-## Varppaaja
-
-## haukka
-
-## Vasikkola
-
-## Vehmas
-
-## Veijo
-
-## sääri
-
-## Vertaala
-
-## järvi
-
-## Vuontee
-
-## Vuontee var
-
-## Vuorela
-
-## juuri
-
-## Välilä
-
-## Yläpaula
+## salo
+## sauma
+## siipi
+## silta
+## syrjä
+## taival
+## tori
+## vaara
+## vainio
+## vieru
+## vuokko
